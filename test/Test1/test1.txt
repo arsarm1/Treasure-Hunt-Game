@@ -1,0 +1,2 @@
+Problem: Empty Stack
+Fix: called choosePlayer in the wrong location

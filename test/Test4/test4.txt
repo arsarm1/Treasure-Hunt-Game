@@ -1,0 +1,2 @@
+Problem: SQLite error
+Fix: rs.close();

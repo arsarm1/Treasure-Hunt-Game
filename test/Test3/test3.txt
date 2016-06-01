@@ -1,0 +1,2 @@
+Problem: SQLite database is locked
+Fix: Not everything should be enclosed in only one try catch block.

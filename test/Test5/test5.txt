@@ -1,0 +1,2 @@
+Test to see if test case from specification works.
+Result: Pass

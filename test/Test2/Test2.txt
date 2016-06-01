@@ -1,0 +1,2 @@
+Problem: Players get stuck.
+Fix: integrated player object inside 
